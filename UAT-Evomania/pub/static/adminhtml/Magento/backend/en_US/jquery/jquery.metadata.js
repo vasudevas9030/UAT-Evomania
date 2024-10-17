@@ -1,0 +1,1 @@
+/var/www/UAT-Evomania/lib/web/jquery/jquery.metadata.js

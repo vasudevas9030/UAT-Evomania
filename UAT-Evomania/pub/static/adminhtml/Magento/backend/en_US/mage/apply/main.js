@@ -1,0 +1,1 @@
+/var/www/UAT-Evomania/lib/web/mage/apply/main.js
