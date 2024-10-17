@@ -170,3 +170,4 @@
 [2024-10-17T06:23:04.001945+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
 [2024-10-17T06:23:04.002342+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
 [2024-10-17T06:23:08.572599+00:00] main.DEBUG: Request validation failed for action "Magento\Framework\App\Action\Forward\Interceptor" {"exception":"[object] (Magento\\Framework\\App\\Request\\InvalidRequestException(code: 0): Invalid request received at /var/www/Live-Evomania/vendor/magento/framework/App/Request/CsrfValidator.php:105)"} []
+[2024-10-17T06:47:45.969033+00:00] main.DEBUG: Request validation failed for action "Magento\Cms\Controller\Index\Index\Interceptor" {"exception":"[object] (Magento\\Framework\\App\\Request\\InvalidRequestException(code: 0): Invalid request received at /var/www/Live-Evomania/vendor/magento/framework/App/Request/CsrfValidator.php:105)"} []
