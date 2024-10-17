@@ -1,0 +1,1 @@
+/var/www/Dev-Evomania/vendor/magento/module-ui/view/base/web/js/lib/registry/registry.js

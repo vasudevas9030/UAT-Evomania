@@ -1,0 +1,1 @@
+/var/www/Dev-Evomania/vendor/magento/module-page-builder/view/base/web/js/events.js
